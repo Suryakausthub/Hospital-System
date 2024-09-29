@@ -37,7 +37,6 @@ public class testtable extends JFrame {
         getContentPane().add(right, BorderLayout.EAST);
         getContentPane().add(center, BorderLayout.CENTER);
     }
-
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
