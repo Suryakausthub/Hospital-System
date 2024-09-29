@@ -16,7 +16,6 @@ class EditDoc
         JPanel formpanel, editpane, menubuttonpane;
         JButton menubutton;
         
-                
 	EditDoc()
 	{   
             Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
