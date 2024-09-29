@@ -6,8 +6,7 @@ import javax.swing.border.EtchedBorder;
 
 
 public class AboutUs
-{
-	
+{	
 	AboutUs()
 	{
 		Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
