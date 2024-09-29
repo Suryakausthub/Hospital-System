@@ -7,7 +7,6 @@ import javax.swing.border.BevelBorder;
 import javax.swing.border.EtchedBorder;
 import javax.swing.plaf.LabelUI;
 
-
 class MenuPage 
 {
     JTabbedPane tabbedPane;			
