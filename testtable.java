@@ -10,7 +10,7 @@ public class testtable extends JFrame {
     public testtable() {
         initializeUI();
     }
-
+    
     private void initializeUI() {
         setSize(400, 400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
