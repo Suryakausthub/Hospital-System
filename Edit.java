@@ -6,6 +6,7 @@ import java.sql.*;
 import javax.swing.border.BevelBorder;
 import javax.swing.border.EtchedBorder;
 
+
 class Edit 
 {
 	String name;
