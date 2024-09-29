@@ -11,7 +11,6 @@ public class ContactUs
     ContactUs()
     {
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
-
         //create contactusframe Jframe
         final JFrame contactusframe = new JFrame("Contact Us");
         contactusframe.setExtendedState(JFrame.MAXIMIZED_BOTH);
