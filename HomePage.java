@@ -13,7 +13,6 @@ class HomePage {
 	
     HomePage()
     {
-
         try{
             // Register JDBC Driver
             Class.forName(JDBC_DRIVER);
