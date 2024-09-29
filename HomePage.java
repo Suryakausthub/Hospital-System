@@ -10,7 +10,7 @@ class HomePage {
     static final String DB_URL = "jdbc:mysql://localhost/hms";
     static final String USER = "root";
     static final String PASS = "root";
-    
+	
     HomePage()
     {
 
